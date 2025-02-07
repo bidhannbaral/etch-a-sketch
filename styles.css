@@ -1,0 +1,51 @@
+#title {
+    margin: auto;
+    text-align: center;
+    font-size: 100px;
+    margin-top: -25px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    height: 800px;
+    width: 801px;
+    margin: auto;
+    margin-top: -600px;
+    margin-left: 900px;
+}
+
+.grid {
+    outline: 1px solid black;
+    box-sizing: border-box;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 500px;
+    margin: auto;
+    margin-left: 390px;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 100px;
+}
+
+button {
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 3px 3px 5px;
+    font-size: 20px;
+    color: white;
+    border-radius: 22px;
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: black;
+}
+
+#size, #slider {
+    font-size: 30px;
+}
