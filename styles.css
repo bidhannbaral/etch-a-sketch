@@ -9,16 +9,16 @@
     display: flex;
     flex-wrap: wrap;
     border: 2px solid black;
-    height: 800px;
-    width: 801px;
+    height: 850px;
+    width: 851px;
     margin: auto;
-    margin-top: -600px;
+    margin-top: -615px;
     margin-left: 900px;
 }
 
 .grid {
     outline: 1px solid black;
-    box-sizing: border-box;
+    background-color: white;
 }
 
 .options {
